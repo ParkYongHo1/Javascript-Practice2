@@ -1,4 +1,5 @@
 const color = document.getElementById("color");
+const 
 const lineWidth = document.getElementById("line-width");
 const canvas = document.querySelector("canvas");
 const ctx = canvas.getContext("2d");
